@@ -10,7 +10,7 @@ This is based on Leslie Deck of the Zygo Corporation's published work:<br/>
 **Fourier-transform phase-shifting interferometry**<br/>
 **https://www.osapublishing.org/ao/abstract.cfm?uri=ao-42-13-2354<br/>**
 
-This technique is used in some of their optical surface measurement tools, such as this:<br/>
+This technique is used in some of Zygo's optical surface measurement tools, such as this:<br/>
 **Zygo Verifire™ MST**<br/>
 **https://www.zygo.com/?/met/interferometers/verifire/mst/<br/>**
 
