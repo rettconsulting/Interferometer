@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="interferometer">
+</Property><Property Name="Solution File" Value="S:\alexm\code\interferometer\interferometer.sln">
+</Property><Property Name="User Options File" Value="S:\alexm\code\interferometer\interferometer.suo">
+</Property><Property Name="Date" Value="Wednesday, March 07, 2012">
+</Property><Property Name="Time" Value="13:13 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="interferometer.sln" Description="File successfully backed up as S:\alexm\code\interferometer\interferometer.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="interferometer.suo" Description="File successfully backed up as S:\alexm\code\interferometer\interferometer.suo.old">
+</Event><Event ErrorLevel="0" Project="interferometer" Source="interferometer.vcproj" Description="Converting project file 'S:\alexm\code\interferometer\interferometer.vcproj'.">
+</Event><Event ErrorLevel="1" Project="interferometer" Source="interferometer.vcproj" Description="Attribute 'EnableManagedIncrementalBuild' of 'Debug|Win32' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="interferometer" Source="interferometer.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="interferometer" Source="interferometer.vcproj" Description="Done converting to new project file 'S:\alexm\code\interferometer\interferometer.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="interferometer" Source="interferometer.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="interferometer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="interferometer.sln" Description="Converted">
+</Event></UpgradeLog>
