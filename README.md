@@ -6,7 +6,7 @@
 
 You can use a swept frequency laser source to measure suface figure and homogeneity of transmisive optics like windows and lenses. This is a different technique than phase shifting interferometry which requires you to physically perturb the cavity length to create swept fringe images.
 
-This is based on Leslie Deck of the Zygo Corporation's published work:<br/>
+This is based on work by Leslie L. Deck of the Zygo Corporation:<br/>
 **Fourier-transform phase-shifting interferometry**<br/>
 **https://www.osapublishing.org/ao/abstract.cfm?uri=ao-42-13-2354<br/>**
 
