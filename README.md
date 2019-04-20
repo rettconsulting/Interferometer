@@ -22,6 +22,6 @@ This uses CImage++ (for visualization) and FFTW (for fourier transform) librarie
 **http://cimg.eu/**<br/>
 **http://www.fftw.org/**<br/>
 
-Copyright © Alex Martin - alex@rettc.com - http://www.rettc.com<br/><br/><br/>
+<br/><br/>Copyright © Alex Martin - alex@rettc.com - http://www.rettc.com<br/><br/><br/>
 
 ![image](https://raw.githubusercontent.com/mrlucretius/Interferometer/master/interferometer-with-unwrapping.jpg "Interferometer in Action")
