@@ -4,7 +4,7 @@
 
 **This is a demonstration of fourier transform frequency scanning interferomtery.**
 
-You can use a swept frequency laser source to measure suface figure and homogeneity of transmisive optics like windows and lenses. This is a different technique than phase shifting interferometry which requires you to physically perturb the cavity length to creaete swept fringe images.
+You can use a swept frequency laser source to measure suface figure and homogeneity of transmisive optics like windows and lenses. This is a different technique than phase shifting interferometry which requires you to physically perturb the cavity length to create swept fringe images.
 
 This is based on Leslie Deck of the Zygo Corporation's published work:<br/>
 **Fourier-transform phase-shifting interferometry**<br/>
