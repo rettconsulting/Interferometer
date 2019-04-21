@@ -14,7 +14,7 @@ This technique is used in some of Zygo's optical surface measurement tools, such
 **Zygo Verifire™ MST**<br/>
 **https://www.zygo.com/?/met/interferometers/verifire/mst/<br/>**
 
-This was written in 2008 or so. This is not an example of excellent programming (I write much better software every day...) but is an demo implementation of the tricky physical and mathematical technique desribed in Deck's paper.<br/>
+This was written in 2008 or so. This is not an example of excellent programming (I write much better software every day...) but is a demo implementation of the tricky physical and mathematical technique desribed in Deck's paper.<br/>
 
 This has been updated to a Visual Studio 2017 C++ solution, you can clone and compile it easily.<br/>
 
